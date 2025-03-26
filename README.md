@@ -1,4 +1,4 @@
-<h1>Hi, I'm Cortesha! <br/><a href="https://github.com/crd3cc04">Programmer</a>, <a href="https://www.linkedin.com/in/crd3cc04/">Cybersecurity Professional</a>
+<h1>Hi, I'm Cortesha! <br/><a href="https://github.com/crd3cc04">Programmer</a> & <a href="https://www.linkedin.com/in/crd3cc04/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Software Development & Cybersecurity Projects:</h2>
 
