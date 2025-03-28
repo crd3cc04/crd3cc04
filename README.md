@@ -18,8 +18,10 @@
 <h2>📃 Certifications</h2>
 
 - <b>Web Development</b>
-  - [Java & Javascript Web Development (LaunchCode)](https://github.com/crd3cc04/LABURL)
+  - Java & Javascript Web Development (LaunchCode)
   - Data Science (Lambda School)
+  - Google Cybersecurity Professional Certificate (In-Progress)
+  - Salesforce Administrator Certificate (In-Progress)
  
 
 <h2> 🤳 Connect with me:</h2>
