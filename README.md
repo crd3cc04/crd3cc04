@@ -20,8 +20,8 @@
 - <b>Web Development</b>
   - Java & Javascript Web Development (LaunchCode)
   - Data Science (Lambda School)
-  - Google Cybersecurity Professional Certificate (In-Progress)
-  - Salesforce Administrator Certificate (In-Progress)
+  - Google Cybersecurity Professional Certificate (Coursera)
+  - CompTIA Security+ (In-Progress)
  
 
 <h2> 🤳 Connect with me:</h2>
