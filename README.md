@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development & Cybersecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice</b>
-  - [Praciting DS & Algos in Python](https://github.com/crd3cc04/LABURL)
+  - [Practicing DS & Algos in Python](https://github.com/crd3cc04/LABURL)
 - <b>Full Stack Web App (React, NodeJS, Express, MongoDB, Axios, JWT, and CORS)</b>
   - [Expense Mananger App](https://github.com/crd3cc04/LABURL)
   - [Business Process Improvement Tracker](https://github.com/crd3cc04/bpi-tracker)
