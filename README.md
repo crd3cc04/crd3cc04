@@ -1,6 +1,6 @@
 <h1>Hi, I'm Cortesha! <br/><a href="https://github.com/crd3cc04">Programmer</a> & <a href="https://www.linkedin.com/in/crd3cc04/">Cybersecurity Professional</a>
 
-<h2>👨‍💻 Software Development & Cybersecurity Projects:</h2>
+<h2>👨‍💻 Software Development, Business Analysis, & Cybersecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice</b>
   - [Practicing DS & Algos in Python](https://github.com/crd3cc04/LABURL)
