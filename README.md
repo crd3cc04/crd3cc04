@@ -12,7 +12,7 @@
 - <b>Python</b>
   - [Text Analysis Tool (Tokenize & Clean Text, Use of NLP, & AI Modeling Demo)](https://github.com/crd3cc04/LABURL)
 - <b>Cybersecurity</b>
-  - [Active Directory Home Lab](https://github.com/crd3cc04/LABURL)
+  - [Active Directory Home Lab]([https://github.com/crd3cc04/LABURL](https://github.com/crd3cc04/lab-step-03-ad-structure-and-users/tree/main))
   - [Cloud Naitive SIEM](https://github.com/crd3cc04/LABURL)
   - [Systems Administration & Security Lab](https://github.com/crd3cc04/linux-security-automation-lab)
  
