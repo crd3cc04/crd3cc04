@@ -7,8 +7,8 @@
 - <b>Full Stack Web App (Javascript, NodeJS, Express, MongoDB, Axios, JWT, and CORS)</b>
   - [Full Stack Task Tracker (Vanilla Javascript)](https://github.com/crd3cc04/fullstack-task-tracker-js)
   - [Business Process Improvement Tracker](https://github.com/crd3cc04/bpi-tracker)
-- <b>PowerShell</b>
-  - [Coming Soon - System Info Dashboard](https://github.com/crd3cc04/LABURL)
+- <b>Backend / API</b>
+  - [Mini REST API](https://github.com/crd3cc04/mini-rest-api)
 - <b>Python</b>
   - [Python Log File Analyzer](https://github.com/crd3cc04/python-log-file-analyzer)
   - [Python Data Validation Tool](https://github.com/crd3cc04/python-data-validation-tool)
