@@ -10,6 +10,7 @@
 - <b>PowerShell</b>
   - [System Info Dashboard](https://github.com/crd3cc04/LABURL)
 - <b>Python</b>
+  - [Python Log File Analyzer](https://github.com/crd3cc04/python-log-file-analyzer)
   - [Text Analysis Tool (Tokenize & Clean Text, Use of NLP, & AI Modeling Demo)](https://github.com/crd3cc04/LABURL)
 - <b>Cybersecurity</b>
   - [Active Directory Home Lab](https://github.com/crd3cc04/lab-step-03-ad-structure-and-users)
