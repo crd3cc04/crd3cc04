@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development, Business Analysis, & Cybersecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice</b>
-  - [Practicing DS & Algos in Python](https://github.com/crd3cc04/LABURL)
+  - [DSA Practice (Javascript)](https://github.com/crd3cc04/dsa-practice-js)
 - <b>Full Stack Web App (React, NodeJS, Express, MongoDB, Axios, JWT, and CORS)</b>
   - [Expense Mananger App](https://github.com/crd3cc04/LABURL)
   - [Business Process Improvement Tracker](https://github.com/crd3cc04/bpi-tracker)
