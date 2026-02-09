@@ -8,13 +8,13 @@
   - [Full Stack Task Tracker (Vanilla Javascript)](https://github.com/crd3cc04/fullstack-task-tracker-js)
   - [Business Process Improvement Tracker](https://github.com/crd3cc04/bpi-tracker)
 - <b>PowerShell</b>
-  - [System Info Dashboard](https://github.com/crd3cc04/LABURL)
+  - [Coming Soon - System Info Dashboard](https://github.com/crd3cc04/LABURL)
 - <b>Python</b>
   - [Python Log File Analyzer](https://github.com/crd3cc04/python-log-file-analyzer)
   - [Python Data Validation Tool](https://github.com/crd3cc04/python-data-validation-tool)
 - <b>Cybersecurity</b>
   - [Active Directory Home Lab](https://github.com/crd3cc04/lab-step-03-ad-structure-and-users)
-  - [Cloud Naitive SIEM](https://github.com/crd3cc04/LABURL)
+  - [Comming Soon - Cloud Naitive SIEM](https://github.com/crd3cc04/LABURL)
   - [Systems Administration & Security Lab](https://github.com/crd3cc04/linux-security-automation-lab)
  
 <h2>📃 Certifications</h2>
