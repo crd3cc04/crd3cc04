@@ -14,7 +14,7 @@
   - [Python Data Validation Tool](https://github.com/crd3cc04/python-data-validation-tool)
 - <b>Cybersecurity</b>
   - [Active Directory Home Lab](https://github.com/crd3cc04/lab-step-03-ad-structure-and-users)
-  - [Comming Soon - Cloud Naitive SIEM](https://github.com/crd3cc04/LABURL)
+  - [Coming Soon - Cloud Naitive SIEM](https://github.com/crd3cc04/LABURL)
   - [Systems Administration & Security Lab](https://github.com/crd3cc04/linux-security-automation-lab)
  
 <h2>📃 Certifications</h2>
