@@ -5,7 +5,7 @@
 - <b>Data Structures and Algorithms Practice</b>
   - [DSA Practice (Javascript)](https://github.com/crd3cc04/dsa-practice-js)
 - <b>Full Stack Web App (React, NodeJS, Express, MongoDB, Axios, JWT, and CORS)</b>
-  - [Expense Mananger App](https://github.com/crd3cc04/LABURL)
+  - [Full Stack Task Tracker (Vanilla Javascript)](https://github.com/crd3cc04/fullstack-task-tracker-js)
   - [Business Process Improvement Tracker](https://github.com/crd3cc04/bpi-tracker)
 - <b>PowerShell</b>
   - [System Info Dashboard](https://github.com/crd3cc04/LABURL)
